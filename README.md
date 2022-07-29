@@ -10,8 +10,6 @@ Isso representa uma perda de milhões para a empresa.
 
 O que a empresa precisa fazer para resolver isso?
 
-Base de Dados: https://drive.google.com/drive/folders/1T7D0BlWkNuy_MDpUHuBG44kT80EmRYIs?usp=sharing
-
 Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
 
 # Data Analysis with Python - Pandas and Plotly
@@ -25,7 +23,5 @@ The problem is, analyzing the customer history from the last few years, you have
 This represents a loss of millions for the company.
 
 What does the company need to do to solve this?
-
-Database: https://drive.google.com/drive/folders/1T7D0BlWkNuy_MDpUHuBG44kT80EmRYIs?usp=sharing
 
 Original Kaggle Link: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
