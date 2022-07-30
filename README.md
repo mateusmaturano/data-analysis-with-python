@@ -1,6 +1,6 @@
 # Análise de Dados com Python - Pandas and Plotly
 
-Desafio:
+### Desafio:
 
 Trabalhamos em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
 
@@ -14,7 +14,7 @@ Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-data
 
 # Data Analysis with Python - Pandas and Plotly
 
-Challenge:
+### Challenge:
 
 You work in a telecom company and you have customers for several different services, among the main ones: internet and mobile.
 
